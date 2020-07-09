@@ -1,0 +1,10 @@
+C:\Users\Olivia Lee\Desktop\Gold Badge\CSharpFundamentals\RobTheBank_Console\bin\Debug\RobTheBank_Console.exe.config
+C:\Users\Olivia Lee\Desktop\Gold Badge\CSharpFundamentals\RobTheBank_Console\bin\Debug\RobTheBank_Console.exe
+C:\Users\Olivia Lee\Desktop\Gold Badge\CSharpFundamentals\RobTheBank_Console\bin\Debug\RobTheBank_Console.pdb
+C:\Users\Olivia Lee\Desktop\Gold Badge\CSharpFundamentals\RobTheBank_Console\obj\Debug\RobTheBank_Console.csprojAssemblyReference.cache
+C:\Users\Olivia Lee\Desktop\Gold Badge\CSharpFundamentals\RobTheBank_Console\obj\Debug\RobTheBank_Console.csproj.CoreCompileInputs.cache
+C:\Users\Olivia Lee\Desktop\Gold Badge\CSharpFundamentals\RobTheBank_Console\obj\Debug\RobTheBank_Console.exe
+C:\Users\Olivia Lee\Desktop\Gold Badge\CSharpFundamentals\RobTheBank_Console\obj\Debug\RobTheBank_Console.pdb
+C:\Users\Olivia Lee\Desktop\Gold Badge\CSharpFundamentals\RobTheBank_Console\bin\Debug\RobTheBank_Classes.dll
+C:\Users\Olivia Lee\Desktop\Gold Badge\CSharpFundamentals\RobTheBank_Console\bin\Debug\RobTheBank_Classes.pdb
+C:\Users\Olivia Lee\Desktop\Gold Badge\CSharpFundamentals\RobTheBank_Console\obj\Debug\RobTheBank_Console.csproj.CopyComplete

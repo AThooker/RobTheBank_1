@@ -1,0 +1,6 @@
+C:\Users\Olivia Lee\Desktop\Gold Badge\CSharpFundamentals\RobTheBank_Classes\bin\Debug\RobTheBank_Classes.dll
+C:\Users\Olivia Lee\Desktop\Gold Badge\CSharpFundamentals\RobTheBank_Classes\bin\Debug\RobTheBank_Classes.pdb
+C:\Users\Olivia Lee\Desktop\Gold Badge\CSharpFundamentals\RobTheBank_Classes\obj\Debug\RobTheBank_Classes.csprojAssemblyReference.cache
+C:\Users\Olivia Lee\Desktop\Gold Badge\CSharpFundamentals\RobTheBank_Classes\obj\Debug\RobTheBank_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Olivia Lee\Desktop\Gold Badge\CSharpFundamentals\RobTheBank_Classes\obj\Debug\RobTheBank_Classes.dll
+C:\Users\Olivia Lee\Desktop\Gold Badge\CSharpFundamentals\RobTheBank_Classes\obj\Debug\RobTheBank_Classes.pdb
